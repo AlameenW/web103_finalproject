@@ -2,7 +2,7 @@
 
 CodePath WEB103 Final Project
 
-Designed and developed by: [your names here]
+Designed and developed by: Alameen Adeku, Axin Li, Helen Tran
 
 🔗 Link to deployed app:
 
