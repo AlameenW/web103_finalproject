@@ -8,7 +8,7 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 
 ## Wireframe 1: [Home]
 
-![Alt text](../images/Homepage.png)
+![Alt text](./images/Homepage.png)
 
 ## Wireframe 2: [page title]
 
