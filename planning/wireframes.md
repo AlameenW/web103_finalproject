@@ -6,9 +6,9 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 
 [👉🏾👉🏾👉🏾 List the pages you expect to have in your app, with a ⭐ next to pages you have wireframed]
 
-## Wireframe 1: [page title]
+## Wireframe 1: [Home]
 
-[👉🏾👉🏾👉🏾 include wireframe 1]
+![Alt text](../images/Homepage.png)
 
 ## Wireframe 2: [page title]
 
