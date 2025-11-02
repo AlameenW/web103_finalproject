@@ -2,7 +2,7 @@
 
 Reference the Creating an Entity Relationship Diagram final project guide in the course portal for more information about how to complete this deliverable.
 
-## Create the List of Tables
+## List of Tables
 
 - Users
 - Movies
@@ -11,7 +11,7 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 - User_Movie_Shelf
 - Reviews
 
-## Add the Entity Relationship Diagram
+## Entity Relationship Diagram
 
 ![Entity Relationship Diagram](images/er_diagram.png)
 
@@ -39,6 +39,7 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 | release_date | date    | The date the movie was released               |
 | overview     | text    | A brief description or synopsis of the movie  |
 | img_path     | text    | URL or file path to the movie's poster image  |
+| external_avg_rating  | integer  | Average rating from external databse  |
 
 ### Genres
 
